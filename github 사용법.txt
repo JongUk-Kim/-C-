@@ -1,4 +1,3 @@
-root folder 연결
 git init - 시작
 git remote add origin  - 레파지토리와 폴더 연결
 git status - 레파지토리와 폴더 상태를 체크
